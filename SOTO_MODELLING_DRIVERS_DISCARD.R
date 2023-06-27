@@ -31,8 +31,8 @@ rm(list=ls())
 
 # LOAD THE DATA .RData 
 
-load("./SUBMITTED/31032023/SOTO_IJMS_DATA.RData")
-df <- SOTO_IJMS_DATA
+load("SOTO_DATA.RData")
+df <- SOTO_DATA
 
 # LOAD PACKAGES ----
 
