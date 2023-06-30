@@ -1,4 +1,4 @@
-https://github.com/MeriSoto/SOTO_IJMS_2023_MODELLING_DRIVERS_OF_DISCARDS_THROUGH_BAYESIAN_SPATIO_TEMPORAL_MODELS_IN-TRAWLING_FI-
+https://github.com/MeriSoto/SOTO_2023_MODELLING_DRIVERS_OF_DISCARDS_THROUGH_BAYESIAN_SPATIO_TEMPORAL_MODELS_IN-TRAWLING_FI-
 
 ################################################################################
 ############################# SETTING THE SCENE ################################
@@ -12,7 +12,7 @@ https://github.com/MeriSoto/SOTO_IJMS_2023_MODELLING_DRIVERS_OF_DISCARDS_THROUGH
 # Soto, M. , Fernández-Peralta, L., Rey, J., Czerwisnki, I., García-Cancela, R., 
 # Llope, M., Cabrera-Busto, J.,  Liébana, M. and Pennino, M. G.
 
-# ICES Journal of Marine Science. (submitted 31st March 2023)
+# FISHERIES RESEARCH (submitted 17th April 2023)
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
