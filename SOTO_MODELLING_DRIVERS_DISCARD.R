@@ -124,6 +124,8 @@ stk.est3 <- inla.stack(data=list(y=data$response3),
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # FORMULA FOR INITIAL SPATIAL MODELS WITH ALL COVARIATES 
 # CHOOSEN FROM RANDOM FOREST SELECTION
+# .std = variable standardized
+# skill =skipper experience
 
 f1 <- y~-1 + beta0 + 
   offset(trawling.std) + 
